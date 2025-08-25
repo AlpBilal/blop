@@ -1,1 +1,22 @@
 @charset "utf-8";
+body{
+    background-color: #ffffb7;
+    font-size: 40px;
+    font-family: fantasy;
+    color: #014420;
+    h2{
+        text-align: center;
+        color: rgb(10, 54, 165)
+    }
+    .omlet{
+        width:45%;
+        border: 2px solid red;
+        display: block;
+        margin: auto;
+    }
+    img{
+        width: 400px;
+    }
+}
+
+
